@@ -10,5 +10,6 @@ spring:
           username:
           password:
           default-label: master
+      label: master
   profiles:
     active: dev
