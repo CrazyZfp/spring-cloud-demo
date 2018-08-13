@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: sc_cnf_srv
+  cloud:
+    config:
+      server:
+        git:
+          uri:
+          search-paths:
+          username:
+          password:
+      label: master

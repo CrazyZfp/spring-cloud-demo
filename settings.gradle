@@ -1,0 +1,10 @@
+rootProject.name = 'sc-demo'
+
+include 'sc-server'
+include 'sc-provider1'
+include 'sc-provider2'
+include 'sc-ribbon'
+include 'sc-feign'
+include 'sc-zuul'
+include 'sc-config-server'
+include 'sc-config-client'

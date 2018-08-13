@@ -1,0 +1,5 @@
+mainClassName = "zfp.demo.sc_cnf_srv.ConfigServerApplication"
+
+dependencies {
+    compile group: 'org.springframework.cloud', name: 'spring-cloud-config-server'
+}

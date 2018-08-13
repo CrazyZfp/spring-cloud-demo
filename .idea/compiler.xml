@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="sc-client-copy_main" target="1.8" />
+      <module name="sc-client-copy_test" target="1.8" />
+      <module name="sc-client_main" target="1.8" />
+      <module name="sc-client_test" target="1.8" />
+      <module name="sc-config-client_main" target="1.8" />
+      <module name="sc-config-client_test" target="1.8" />
+      <module name="sc-config-server_main" target="1.8" />
+      <module name="sc-config-server_test" target="1.8" />
+      <module name="sc-demo_main" target="1.8" />
+      <module name="sc-demo_test" target="1.8" />
+      <module name="sc-feign_main" target="1.8" />
+      <module name="sc-feign_test" target="1.8" />
+      <module name="sc-provider1_main" target="1.8" />
+      <module name="sc-provider1_test" target="1.8" />
+      <module name="sc-provider2_main" target="1.8" />
+      <module name="sc-provider2_test" target="1.8" />
+      <module name="sc-ribbon_main" target="1.8" />
+      <module name="sc-ribbon_test" target="1.8" />
+      <module name="sc-server_main" target="1.8" />
+      <module name="sc-server_test" target="1.8" />
+      <module name="sc-zuul_main" target="1.8" />
+      <module name="sc-zuul_test" target="1.8" />
+      <module name="sc_demo_main" target="1.5" />
+      <module name="sc_demo_test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

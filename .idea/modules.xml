@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-config-client/sc-config-client.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-config-client/sc-config-client.iml" group="sc-config-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-config-client/sc-config-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-config-client/sc-config-client_main.iml" group="sc-config-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-config-client/sc-config-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-config-client/sc-config-client_test.iml" group="sc-config-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-config-server/sc-config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-config-server/sc-config-server.iml" group="sc-config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-config-server/sc-config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-config-server/sc-config-server_main.iml" group="sc-config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-config-server/sc-config-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-config-server/sc-config-server_test.iml" group="sc-config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-feign/sc-feign.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-feign/sc-feign.iml" group="sc-feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-feign/sc-feign_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-feign/sc-feign_main.iml" group="sc-feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-feign/sc-feign_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-feign/sc-feign_test.iml" group="sc-feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-provider1/sc-provider1.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-provider1/sc-provider1.iml" group="sc-provider1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-provider1/sc-provider1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-provider1/sc-provider1_main.iml" group="sc-provider1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-provider1/sc-provider1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-provider1/sc-provider1_test.iml" group="sc-provider1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-provider2/sc-provider2.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-provider2/sc-provider2.iml" group="sc-provider2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-provider2/sc-provider2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-provider2/sc-provider2_main.iml" group="sc-provider2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-provider2/sc-provider2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-provider2/sc-provider2_test.iml" group="sc-provider2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-ribbon/sc-ribbon.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-ribbon/sc-ribbon.iml" group="sc-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-ribbon/sc-ribbon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-ribbon/sc-ribbon_main.iml" group="sc-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-ribbon/sc-ribbon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-ribbon/sc-ribbon_test.iml" group="sc-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-server/sc-server.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-server/sc-server.iml" group="sc-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-server/sc-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-server/sc-server_main.iml" group="sc-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-server/sc-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-server/sc-server_test.iml" group="sc-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-zuul/sc-zuul.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-zuul/sc-zuul.iml" group="sc-zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-zuul/sc-zuul_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-zuul/sc-zuul_main.iml" group="sc-zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sc-zuul/sc-zuul_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sc-zuul/sc-zuul_test.iml" group="sc-zuul" />
+    </modules>
+  </component>
+</project>
