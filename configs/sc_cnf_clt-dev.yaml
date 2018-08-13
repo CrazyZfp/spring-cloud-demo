@@ -1,9 +1,0 @@
-hello: lalala
-
-hello_list:
-  - lalala1
-  - lalala2
-
-hello_map:
-  hello_key1: lalala1
-  hello_key2: lalala2

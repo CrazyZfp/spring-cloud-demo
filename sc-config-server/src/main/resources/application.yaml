@@ -5,8 +5,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/CrazyZfp/spring-cloud-demo
-          search-paths: configs
+          uri: https://github.com/CrazyZfp/spring-cloud-demo-configs
+          search-paths: .
           username:
           password:
           default-label: master
