@@ -9,5 +9,6 @@ spring:
           search-paths: configs
           username:
           password:
-
-      label: master
+          default-label: master
+  profiles:
+    active: dev
