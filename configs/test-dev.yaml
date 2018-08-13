@@ -1,9 +1,9 @@
-hello: world
+hello: lalala
 
 hello_list:
-  - world1
-  - world2
+  - lalala1
+  - lalala2
 
 hello_map:
-  hello_key1: world1
-  hello_key2: world2
+  hello_key1: lalala1
+  hello_key2: lalala2
